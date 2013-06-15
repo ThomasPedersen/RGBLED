@@ -4,8 +4,6 @@
  
 #include "RGBLED.h"
  
-long n = 0;
-
 RGBLED led;
 
 void setup() {                
